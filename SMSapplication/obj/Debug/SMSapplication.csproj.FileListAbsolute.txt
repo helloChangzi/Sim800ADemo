@@ -1,0 +1,17 @@
+C:\Users\Intel\Downloads\Compressed\SMSapplication\SMSapplication\SMSapplication\bin\Debug\SMSapplication.exe
+C:\Users\Intel\Downloads\Compressed\SMSapplication\SMSapplication\SMSapplication\bin\Debug\SMSapplication.pdb
+C:\Users\Intel\Downloads\Compressed\SMSapplication\SMSapplication\SMSapplication\obj\Debug\SMSapplication.SMSapplication.resources
+C:\Users\Intel\Downloads\Compressed\SMSapplication\SMSapplication\SMSapplication\obj\Debug\SMSapplication.Properties.Resources.resources
+C:\Users\Intel\Downloads\Compressed\SMSapplication\SMSapplication\SMSapplication\obj\Debug\SMSapplication.csproj.GenerateResource.Cache
+C:\Users\Intel\Downloads\Compressed\SMSapplication\SMSapplication\SMSapplication\obj\Debug\SMSapplication.exe
+C:\Users\Intel\Downloads\Compressed\SMSapplication\SMSapplication\SMSapplication\obj\Debug\SMSapplication.pdb
+C:\Users\Intel\Downloads\Compressed\SMSapplication\SMSapplication\SMSapplication\obj\Debug\SMSapplication.csprojResolveAssemblyReference.cache
+D:\Working\SMSapplication\SMSapplication\SMSapplication\bin\Debug\SMSapplication.exe.config
+D:\Working\SMSapplication\SMSapplication\SMSapplication\obj\Debug\SMSapplication.exe
+D:\Working\SMSapplication\SMSapplication\SMSapplication\obj\Debug\SMSapplication.pdb
+D:\Working\SMSapplication\SMSapplication\SMSapplication\bin\Debug\SMSapplication.exe
+D:\Working\SMSapplication\SMSapplication\SMSapplication\bin\Debug\SMSapplication.pdb
+D:\Working\SMSapplication\SMSapplication\SMSapplication\obj\Debug\SMSapplication.csprojResolveAssemblyReference.cache
+D:\Working\SMSapplication\SMSapplication\SMSapplication\obj\Debug\SMSapplication.SMSapplication.resources
+D:\Working\SMSapplication\SMSapplication\SMSapplication\obj\Debug\SMSapplication.Properties.Resources.resources
+D:\Working\SMSapplication\SMSapplication\SMSapplication\obj\Debug\SMSapplication.csproj.GenerateResource.Cache

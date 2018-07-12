@@ -1,0 +1,1 @@
+7/12/2018 3:00:32 PM ==> Access to the port 'COM3' is denied.
