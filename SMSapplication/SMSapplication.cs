@@ -14,6 +14,7 @@ using System.Text;
 using System.Windows.Forms;
 using System.IO;
 using System.IO.Ports;
+using MySql.Data.MySqlClient;
 
 namespace SMSapplication
 {
@@ -79,6 +80,18 @@ namespace SMSapplication
                 this.tabSMSapplication.TabPages.Remove(tbCallUSSD);
 
                 this.btnDisconnect.Enabled = false;
+
+                MySqlConnection conn = DBUtils.GetDBConnection();
+
+                
+                //Console.WriteLine("Openning Connection ...");
+
+                conn.Open();
+
+                //Console.WriteLine("Connection successful!");
+                
+
+                Console.Read();
             }
             catch (Exception ex)
             {
@@ -134,6 +147,7 @@ namespace SMSapplication
                 this.tabSMSapplication.TabPages.Remove(tbSendSMS);
                 this.tabSMSapplication.TabPages.Remove(tbReadSMS);
                 this.tabSMSapplication.TabPages.Remove(tbDeleteSMS);
+                this.tabSMSapplication.TabPages.Remove(tbCallUSSD);
 
                 this.lblConnectionStatus.Text = "Not Connected";
                 this.btnDisconnect.Enabled = false;

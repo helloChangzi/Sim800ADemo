@@ -274,7 +274,7 @@ namespace SMSapplication
             try
             {
                 string receivedData = SendATCommand(port, "AT", 300, "No phone connected");
-                string command = "AT+CUSD=1,\"*199*0989062607*" + serial + "#\"" + char.ConvertFromUtf32(13);
+                string command = "AT+CUSD=1,\"*100*" + serial + "#\"" + char.ConvertFromUtf32(13);
                 receivedData = SendATCommand(port, command, 5000, "failed to call ussd to add balance");
                 return receivedData;
             }
